@@ -1,0 +1,90 @@
+{
+  "total_programs": 109,
+  "total_revenue_€": 14914236.1,
+  "total_cost_€": 17863465.0,
+  "total_profit_€": -2949228.9,
+  "total_audience": 174613447,
+  "avg_audience_per_program": 1601958,
+  "roi_%": -16.51,
+  "by_day": {
+    "Lundi": {
+      "programs": 20,
+      "profit_€": 779604.08,
+      "audience": 37009246
+    },
+    "Mardi": {
+      "programs": 22,
+      "profit_€": -313082.32,
+      "audience": 28939190
+    },
+    "Mercredi": {
+      "programs": 16,
+      "profit_€": -291114.96,
+      "audience": 21534277
+    },
+    "Jeudi": {
+      "programs": 15,
+      "profit_€": -453086.37,
+      "audience": 23132359
+    },
+    "Vendredi": {
+      "programs": 13,
+      "profit_€": -643200.25,
+      "audience": 23715182
+    },
+    "Samedi": {
+      "programs": 12,
+      "profit_€": -746126.74,
+      "audience": 18047563
+    },
+    "Dimanche": {
+      "programs": 11,
+      "profit_€": -1282222.34,
+      "audience": 22235631
+    }
+  },
+  "by_slot": {
+    "Matin": {
+      "programs": 17,
+      "profit_€": -1153940.31
+    },
+    "Matinée": {
+      "programs": 22,
+      "profit_€": -2063615.7
+    },
+    "Midi": {
+      "programs": 10,
+      "profit_€": -286238.69
+    },
+    "Après-midi": {
+      "programs": 22,
+      "profit_€": -1925824.25
+    },
+    "Access Prime": {
+      "programs": 9,
+      "profit_€": 194997.88
+    },
+    "Prime Time": {
+      "programs": 7,
+      "profit_€": 4045141.0
+    },
+    "Deuxième partie": {
+      "programs": 13,
+      "profit_€": -661925.09
+    },
+    "Nuit": {
+      "programs": 9,
+      "profit_€": -1097823.73
+    }
+  },
+  "genre_distribution": {
+    "Actualités": 16,
+    "Jeunesse": 16,
+    "Magazine": 18,
+    "Divertissement": 10,
+    "Documentaire": 28,
+    "Film": 6,
+    "Sport": 9,
+    "Série": 6
+  }
+}

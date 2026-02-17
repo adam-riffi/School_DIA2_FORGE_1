@@ -1,0 +1,6835 @@
+[
+  {
+    "id": "P001",
+    "title": "Lâ€™Atelier des Kids",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 32,
+    "cost": 53256,
+    "base_audience": 650385,
+    "origin": "France",
+    "year": 2003,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-25",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P002",
+    "title": "SociÃ©tÃ© : la SantÃ© au quotidien",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 93,
+    "cost": 117886,
+    "base_audience": 905123,
+    "origin": "Europe",
+    "year": 2005,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-12",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P003",
+    "title": "SociÃ©tÃ© : le Pouvoir au quotidien",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 83,
+    "cost": 80095,
+    "base_audience": 1343325,
+    "origin": "France",
+    "year": 2014,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-09-24",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P004",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 41,
+    "cost": 45010,
+    "base_audience": 3646668,
+    "origin": "France",
+    "year": 2021,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-13",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P005",
+    "title": "Les Petits Curieux",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 17,
+    "cost": 83870,
+    "base_audience": 470013,
+    "origin": "France",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-05",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P006",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 60,
+    "cost": 72355,
+    "base_audience": 2461425,
+    "origin": "France",
+    "year": 2015,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-28",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P007",
+    "title": "Le DÃ©bat du Soir",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 43,
+    "cost": 33359,
+    "base_audience": 2488512,
+    "origin": "Europe",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-01",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P008",
+    "title": "Lâ€™Actu en Questions",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 41,
+    "cost": 60840,
+    "base_audience": 3834704,
+    "origin": "France",
+    "year": 2003,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-11",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P009",
+    "title": "UnitÃ© SpÃ©ciale S02E11 - Le choix",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 54,
+    "cost": 228018,
+    "base_audience": 2133346,
+    "origin": "Europe",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-10",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ],
+    "season": 2,
+    "episode": 11,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "20:45",
+    "previous_episode": "P008"
+  },
+  {
+    "id": "P010",
+    "title": "Ligne Rouge S03E10 - Dernier appel",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 57,
+    "cost": 106168,
+    "base_audience": 1769720,
+    "origin": "France",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-02",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 3,
+    "episode": 10,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "20:45",
+    "previous_episode": "P009"
+  },
+  {
+    "id": "P011",
+    "title": "Ligne Rouge S02E11 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 50,
+    "cost": 285172,
+    "base_audience": 2033711,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-09",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "season": 2,
+    "episode": 11,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Vendredi",
+    "usual_time": "21:15",
+    "previous_episode": "P010"
+  },
+  {
+    "id": "P012",
+    "title": "EnquÃªte ouverte SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 71,
+    "cost": 51692,
+    "base_audience": 1237460,
+    "origin": "Europe",
+    "year": 1998,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-14",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P013",
+    "title": "Zoom Voyage",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 51,
+    "cost": 121719,
+    "base_audience": 893830,
+    "origin": "Europe",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-01",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P014",
+    "title": "Handball - Demi-finale : Olympique Nord vs FC Capitale",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 111,
+    "cost": 832072,
+    "base_audience": 2525788,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-04",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P015",
+    "title": "Regards SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 76,
+    "cost": 87655,
+    "base_audience": 1172046,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-08",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P016",
+    "title": "Le horizon sombre",
+    "genre": "Film",
+    "subgenre": "Aventure",
+    "duration_minutes": 111,
+    "cost": 738276,
+    "base_audience": 4649756,
+    "origin": "France",
+    "year": 1997,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-01",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P017",
+    "title": "Inception",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 132,
+    "cost": 1020193,
+    "base_audience": 3902032,
+    "origin": "Europe",
+    "year": 2010,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-18",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin",
+      "MatinÃ©e",
+      "AprÃ¨s-midi"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P018",
+    "title": "Lâ€™Actu en Questions",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 41,
+    "cost": 76856,
+    "base_audience": 3468935,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-29",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P019",
+    "title": "Histoire : la Renaissance, les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 66,
+    "cost": 58932,
+    "base_audience": 1553921,
+    "origin": "France",
+    "year": 2020,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-15",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P020",
+    "title": "Regards Culture",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 72,
+    "cost": 53224,
+    "base_audience": 1078626,
+    "origin": "France",
+    "year": 2007,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-31",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P021",
+    "title": "Stade Handball : Les temps forts",
+    "genre": "Sport",
+    "subgenre": "Football",
+    "duration_minutes": 65,
+    "cost": 781258,
+    "base_audience": 4058345,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-29",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P022",
+    "title": "SociÃ©tÃ© : lâ€™Ã‰cole au quotidien",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 80,
+    "cost": 198779,
+    "base_audience": 1811070,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-26",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P023",
+    "title": "Le serment secret",
+    "genre": "Film",
+    "subgenre": "Aventure",
+    "duration_minutes": 101,
+    "cost": 426362,
+    "base_audience": 2140486,
+    "origin": "Europe",
+    "year": 2015,
+    "age_rating": "-18",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-17",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P024",
+    "title": "Le Magazine Voyage",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 72,
+    "cost": 131537,
+    "base_audience": 1251193,
+    "origin": "France",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-21",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P025",
+    "title": "Lille : Le serment dernier",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 133,
+    "cost": 966566,
+    "base_audience": 3787563,
+    "origin": "Europe",
+    "year": 1998,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-13",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P026",
+    "title": "Lâ€™Hebdo Voyage",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 48,
+    "cost": 153970,
+    "base_audience": 1620503,
+    "origin": "Europe",
+    "year": 2016,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-16",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P027",
+    "title": "Top Gagnant - SpÃ©ciale CÃ©lÃ©britÃ©s",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 90,
+    "cost": 377225,
+    "base_audience": 3794125,
+    "origin": "Europe",
+    "year": 2018,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-24",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P028",
+    "title": "Quiz Master - SpÃ©ciale Famille",
+    "genre": "Divertissement",
+    "subgenre": "Jeu",
+    "duration_minutes": 75,
+    "cost": 152358,
+    "base_audience": 2589585,
+    "origin": "France",
+    "year": 2025,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-26",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P029",
+    "title": "Regards Cuisine",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 89,
+    "cost": 142793,
+    "base_audience": 1310553,
+    "origin": "France",
+    "year": 2010,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-28",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P030",
+    "title": "Handball - Coupe : Union Atlantique vs Paris SC",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 90,
+    "cost": 766370,
+    "base_audience": 2622425,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-08",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P031",
+    "title": "Le DÃ©bat du Soir",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 56,
+    "cost": 46690,
+    "base_audience": 3403912,
+    "origin": "France",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-28",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P032",
+    "title": "Montagnes : le mystÃ¨re",
+    "genre": "Documentaire",
+    "subgenre": "Nature",
+    "duration_minutes": 56,
+    "cost": 196595,
+    "base_audience": 1082096,
+    "origin": "France",
+    "year": 1998,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-18",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P033",
+    "title": "Le Club Junior",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 45,
+    "cost": 116158,
+    "base_audience": 982118,
+    "origin": "France",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-02",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P034",
+    "title": "Lâ€™FrontiÃ¨re dâ€™la mÃ©moire",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 154,
+    "cost": 854204,
+    "base_audience": 3045753,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-04",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P035",
+    "title": "Titanic",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 160,
+    "cost": 854482,
+    "base_audience": 4720392,
+    "origin": "Europe",
+    "year": 1997,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-14",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin",
+      "MatinÃ©e",
+      "AprÃ¨s-midi"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P036",
+    "title": "Le DÃ©bat du Soir",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 47,
+    "cost": 76700,
+    "base_audience": 3573636,
+    "origin": "France",
+    "year": 2010,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-23",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P037",
+    "title": "Zoom SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 61,
+    "cost": 146248,
+    "base_audience": 1654769,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-23",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P038",
+    "title": "Aurores : le mystÃ¨re",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 52,
+    "cost": 55332,
+    "base_audience": 1824910,
+    "origin": "France",
+    "year": 1996,
+    "age_rating": "-12",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-18",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P039",
+    "title": "Kids Planet",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 23,
+    "cost": 112143,
+    "base_audience": 805763,
+    "origin": "Europe",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-30",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P040",
+    "title": "Quartier Libre S03E04 - Dernier appel",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 42,
+    "cost": 249735,
+    "base_audience": 2854389,
+    "origin": "Europe",
+    "year": 2004,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-25",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 3,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mercredi",
+    "usual_time": "21:15",
+    "previous_episode": "P039"
+  },
+  {
+    "id": "P041",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 55,
+    "cost": 34073,
+    "base_audience": 3667546,
+    "origin": "Europe",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-29",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P042",
+    "title": "Aventures AnimÃ©es",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 38,
+    "cost": 76010,
+    "base_audience": 1145639,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-16",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P043",
+    "title": "Zone Football : Inside",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 121,
+    "cost": 313252,
+    "base_audience": 2457779,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-28",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P044",
+    "title": "SociÃ©tÃ© : les RÃ©seaux sociaux en dÃ©bat",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 80,
+    "cost": 79671,
+    "base_audience": 1498448,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-14",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P045",
+    "title": "Kids Planet",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 20,
+    "cost": 25116,
+    "base_audience": 522780,
+    "origin": "France",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-02-25",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P046",
+    "title": "Ligne Rouge S04E10 - La vÃ©ritÃ©",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 42,
+    "cost": 187308,
+    "base_audience": 2366147,
+    "origin": "Europe",
+    "year": 2015,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-04-26",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "season": 4,
+    "episode": 10,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "22:30",
+    "previous_episode": "P045"
+  },
+  {
+    "id": "P047",
+    "title": "Quartier Libre S01E08 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 42,
+    "cost": 108540,
+    "base_audience": 2118097,
+    "origin": "France",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-25",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 1,
+    "episode": 8,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Jeudi",
+    "usual_time": "21:15",
+    "previous_episode": "P046"
+  },
+  {
+    "id": "P048",
+    "title": "Mini HÃ©ros",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 15,
+    "cost": 56997,
+    "base_audience": 938421,
+    "origin": "France",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-31",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P049",
+    "title": "Les HÃ©ritiers S04E08 - Dernier appel",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 58,
+    "cost": 183220,
+    "base_audience": 3362315,
+    "origin": "France",
+    "year": 2013,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-05-18",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ],
+    "season": 4,
+    "episode": 8,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Vendredi",
+    "usual_time": "20:45",
+    "previous_episode": "P048"
+  },
+  {
+    "id": "P050",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 33,
+    "cost": 42288,
+    "base_audience": 2094084,
+    "origin": "Europe",
+    "year": 2021,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-08",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P051",
+    "title": "Stade Football : Inside",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 95,
+    "cost": 898417,
+    "base_audience": 3634779,
+    "origin": "France",
+    "year": 2020,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-03-12",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P052",
+    "title": "Zoom Cuisine",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 68,
+    "cost": 63643,
+    "base_audience": 1465007,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-04",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P053",
+    "title": "Lâ€™Serment de lâ€™aube",
+    "genre": "Film",
+    "subgenre": "Aventure",
+    "duration_minutes": 134,
+    "cost": 358292,
+    "base_audience": 2278674,
+    "origin": "Europe",
+    "year": 2018,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-03-04",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P054",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 48,
+    "cost": 54362,
+    "base_audience": 2891283,
+    "origin": "France",
+    "year": 2000,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-11",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P055",
+    "title": "Famille Moderne S03E11 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 53,
+    "cost": 161763,
+    "base_audience": 3243740,
+    "origin": "Europe",
+    "year": 2005,
+    "age_rating": "-10",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-17",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "season": 3,
+    "episode": 11,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "21:15",
+    "previous_episode": "P054"
+  },
+  {
+    "id": "P056",
+    "title": "OcÃ©ans : les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 83,
+    "cost": 131980,
+    "base_audience": 1863571,
+    "origin": "France",
+    "year": 2013,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-24",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P057",
+    "title": "Zone Rugby : Inside",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 133,
+    "cost": 570578,
+    "base_audience": 4476705,
+    "origin": "Europe",
+    "year": 2012,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-25",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P058",
+    "title": "Lâ€™Mensonge dâ€™la mÃ©moire",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 116,
+    "cost": 648810,
+    "base_audience": 3866728,
+    "origin": "Europe",
+    "year": 2015,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-03-02",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P059",
+    "title": "Star Challenge - SpÃ©ciale CÃ©lÃ©britÃ©s",
+    "genre": "Divertissement",
+    "subgenre": "Jeu",
+    "duration_minutes": 114,
+    "cost": 325249,
+    "base_audience": 3973218,
+    "origin": "Europe",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-01",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P060",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 46,
+    "cost": 61027,
+    "base_audience": 2578796,
+    "origin": "France",
+    "year": 2017,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-20",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P061",
+    "title": "DÃ©fi Chrono - SpÃ©ciale Week-end",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 136,
+    "cost": 212584,
+    "base_audience": 2879471,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-11",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P062",
+    "title": "Nantes : Le pacte silencieux",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 149,
+    "cost": 958016,
+    "base_audience": 3467543,
+    "origin": "France",
+    "year": 2003,
+    "age_rating": "-12",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-01",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P063",
+    "title": "Lâ€™Serment de la chute",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 89,
+    "cost": 271303,
+    "base_audience": 4619039,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-12",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P064",
+    "title": "DÃ©fi Chrono - SpÃ©ciale Anniversaire",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 64,
+    "cost": 102598,
+    "base_audience": 2795425,
+    "origin": "Europe",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-28",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P065",
+    "title": "Football - Match : Stade Central vs Paris SC",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 128,
+    "cost": 231724,
+    "base_audience": 3979983,
+    "origin": "France",
+    "year": 2013,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-10",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P066",
+    "title": "Quartier Libre S04E07 - Double jeu",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 53,
+    "cost": 207797,
+    "base_audience": 2956933,
+    "origin": "Europe",
+    "year": 2020,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-18",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ],
+    "season": 4,
+    "episode": 7,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "22:30",
+    "previous_episode": "P065"
+  },
+  {
+    "id": "P067",
+    "title": "Kids Planet",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 27,
+    "cost": 55026,
+    "base_audience": 782206,
+    "origin": "Europe",
+    "year": 1997,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-20",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P068",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 35,
+    "cost": 37302,
+    "base_audience": 2332979,
+    "origin": "France",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-08",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P069",
+    "title": "Quiz Master - SpÃ©ciale Anniversaire",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 80,
+    "cost": 362113,
+    "base_audience": 2545765,
+    "origin": "Europe",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-09-09",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P070",
+    "title": "Le Juste Prix",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 137,
+    "cost": 371451,
+    "base_audience": 3069776,
+    "origin": "Europe",
+    "year": 2000,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-01",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P071",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 50,
+    "cost": 49077,
+    "base_audience": 3491698,
+    "origin": "France",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-11",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P072",
+    "title": "Quartier Libre S03E06 - Dernier appel",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 49,
+    "cost": 116419,
+    "base_audience": 2406636,
+    "origin": "Europe",
+    "year": 2014,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-29",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 3,
+    "episode": 6,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Samedi",
+    "usual_time": "21:00",
+    "previous_episode": "P071"
+  },
+  {
+    "id": "P073",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 51,
+    "cost": 61743,
+    "base_audience": 2772547,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-21",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P074",
+    "title": "UnitÃ© SpÃ©ciale S01E04 - Double jeu",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 43,
+    "cost": 129790,
+    "base_audience": 3305516,
+    "origin": "France",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-30",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ],
+    "season": 1,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Vendredi",
+    "usual_time": "21:00",
+    "previous_episode": "P073"
+  },
+  {
+    "id": "P075",
+    "title": "Le Club Junior",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 42,
+    "cost": 37684,
+    "base_audience": 579510,
+    "origin": "France",
+    "year": 2017,
+    "age_rating": "-10",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-14",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P076",
+    "title": "Basket - Coupe : FC Capitale vs Union Atlantique",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 94,
+    "cost": 787092,
+    "base_audience": 2817482,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-20",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P077",
+    "title": "Zoom SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 84,
+    "cost": 131408,
+    "base_audience": 705324,
+    "origin": "Europe",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-01",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P078",
+    "title": "Star Challenge",
+    "genre": "Divertissement",
+    "subgenre": "Talk-show",
+    "duration_minutes": 67,
+    "cost": 332507,
+    "base_audience": 3700397,
+    "origin": "France",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-06",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P079",
+    "title": "Faune sauvage : la survie",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 71,
+    "cost": 140819,
+    "base_audience": 1502076,
+    "origin": "Europe",
+    "year": 2014,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-14",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P080",
+    "title": "Zoom SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 74,
+    "cost": 110769,
+    "base_audience": 990907,
+    "origin": "Europe",
+    "year": 2025,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-04",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P081",
+    "title": "Basket - Finale : AS Riviera vs Union Atlantique",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 97,
+    "cost": 362732,
+    "base_audience": 4281491,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-08",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P082",
+    "title": "Mini HÃ©ros",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 19,
+    "cost": 97984,
+    "base_audience": 1256202,
+    "origin": "Europe",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-23",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P083",
+    "title": "La Grande Ã‰nigme - SpÃ©ciale Week-end",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 71,
+    "cost": 440721,
+    "base_audience": 1700845,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-09-13",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P084",
+    "title": "Zone Handball : Les temps forts",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 96,
+    "cost": 304174,
+    "base_audience": 1786266,
+    "origin": "France",
+    "year": 2001,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-05",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P085",
+    "title": "ForÃªts : lâ€™Ã©quilibre",
+    "genre": "Documentaire",
+    "subgenre": "Nature",
+    "duration_minutes": 53,
+    "cost": 114129,
+    "base_audience": 1563461,
+    "origin": "Europe",
+    "year": 2007,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-14",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P086",
+    "title": "Les Petits Curieux",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 16,
+    "cost": 72918,
+    "base_audience": 1097959,
+    "origin": "France",
+    "year": 2001,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-26",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P087",
+    "title": "Stockholm : Le destin invisible",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 110,
+    "cost": 645604,
+    "base_audience": 3333188,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-05-06",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P088",
+    "title": "SociÃ©tÃ© : la SantÃ© en dÃ©bat",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 64,
+    "cost": 140904,
+    "base_audience": 1605752,
+    "origin": "Europe",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-10",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P089",
+    "title": "Le Magazine Conso",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 77,
+    "cost": 138939,
+    "base_audience": 1312245,
+    "origin": "Europe",
+    "year": 2018,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-12",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P090",
+    "title": "Lâ€™Atelier des Kids",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 29,
+    "cost": 97027,
+    "base_audience": 977539,
+    "origin": "Europe",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-04",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P091",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 32,
+    "cost": 72442,
+    "base_audience": 3249964,
+    "origin": "France",
+    "year": 2017,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-07",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P092",
+    "title": "Le pacte mystÃ©rieux",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 86,
+    "cost": 560734,
+    "base_audience": 4878940,
+    "origin": "Europe",
+    "year": 2004,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-22",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P093",
+    "title": "SociÃ©tÃ© : les RÃ©seaux sociaux en dÃ©bat",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 78,
+    "cost": 144778,
+    "base_audience": 1393729,
+    "origin": "Europe",
+    "year": 2007,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-17",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P094",
+    "title": "Lâ€™Hebdo SociÃ©tÃ©",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 93,
+    "cost": 81935,
+    "base_audience": 1190725,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-13",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P095",
+    "title": "SociÃ©tÃ© : le Pouvoir en questions",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 60,
+    "cost": 138622,
+    "base_audience": 1918510,
+    "origin": "Europe",
+    "year": 2008,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-14",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P096",
+    "title": "Famille Moderne S01E09 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 53,
+    "cost": 231029,
+    "base_audience": 1570010,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "-16",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-28",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ],
+    "season": 1,
+    "episode": 9,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mercredi",
+    "usual_time": "21:00",
+    "previous_episode": "P095"
+  },
+  {
+    "id": "P097",
+    "title": "Football - Coupe : Union Atlantique vs Stade Central",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 75,
+    "cost": 891200,
+    "base_audience": 1594855,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-09",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P098",
+    "title": "Le Club Junior",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 20,
+    "cost": 98203,
+    "base_audience": 553550,
+    "origin": "Europe",
+    "year": 2003,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-07",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P099",
+    "title": "DÃ©fi Chrono",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 102,
+    "cost": 447063,
+    "base_audience": 2456598,
+    "origin": "Europe",
+    "year": 2023,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-27",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P100",
+    "title": "Histoire : NapolÃ©on, lâ€™hÃ©ritage",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 72,
+    "cost": 192932,
+    "base_audience": 1261283,
+    "origin": "France",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-09",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P101",
+    "title": "Lâ€™Horizon dâ€™la chute",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 120,
+    "cost": 339831,
+    "base_audience": 3792854,
+    "origin": "France",
+    "year": 1996,
+    "age_rating": "-16",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-28",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P102",
+    "title": "Montagnes : la survie",
+    "genre": "Documentaire",
+    "subgenre": "Nature",
+    "duration_minutes": 66,
+    "cost": 124371,
+    "base_audience": 1749857,
+    "origin": "Europe",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-17",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P103",
+    "title": "PlanÃ¨te Cyclisme : Inside",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 136,
+    "cost": 712128,
+    "base_audience": 3472247,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-28",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P104",
+    "title": "Histoire : les Templiers, les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 82,
+    "cost": 176825,
+    "base_audience": 2120533,
+    "origin": "France",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-04-16",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P105",
+    "title": "Mini HÃ©ros",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 33,
+    "cost": 118672,
+    "base_audience": 653006,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-10",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P106",
+    "title": "Mini HÃ©ros",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 42,
+    "cost": 65317,
+    "base_audience": 1151275,
+    "origin": "Europe",
+    "year": 2018,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-16",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P107",
+    "title": "CÅ“urs CroisÃ©s S02E05 - Double jeu",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 46,
+    "cost": 270213,
+    "base_audience": 1880870,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-08-12",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 2,
+    "episode": 5,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "22:30",
+    "previous_episode": "P106"
+  },
+  {
+    "id": "P108",
+    "title": "Montagnes : lâ€™Ã©quilibre",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 76,
+    "cost": 79277,
+    "base_audience": 1924686,
+    "origin": "Europe",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-31",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P109",
+    "title": "Les HÃ©ritiers S03E10 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 43,
+    "cost": 234938,
+    "base_audience": 1979647,
+    "origin": "France",
+    "year": 2009,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-05",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ],
+    "season": 3,
+    "episode": 10,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Jeudi",
+    "usual_time": "20:45",
+    "previous_episode": "P108"
+  },
+  {
+    "id": "P110",
+    "title": "Lâ€™Atelier des Kids",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 23,
+    "cost": 118272,
+    "base_audience": 972074,
+    "origin": "France",
+    "year": 2020,
+    "age_rating": "-10",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-29",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P111",
+    "title": "Ligne Rouge S01E12 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 49,
+    "cost": 257518,
+    "base_audience": 3159374,
+    "origin": "France",
+    "year": 2004,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-01",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ],
+    "season": 1,
+    "episode": 12,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Vendredi",
+    "usual_time": "22:30",
+    "previous_episode": "P110"
+  },
+  {
+    "id": "P112",
+    "title": "Regards Voyage",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 67,
+    "cost": 102434,
+    "base_audience": 807842,
+    "origin": "France",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-16",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P113",
+    "title": "Histoire : la RÃ©volution, la chute",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 56,
+    "cost": 76465,
+    "base_audience": 982928,
+    "origin": "France",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-05",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P114",
+    "title": "Zone Rugby : Le match",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 103,
+    "cost": 332021,
+    "base_audience": 1484050,
+    "origin": "France",
+    "year": 1999,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-16",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P115",
+    "title": "Nantes : Le pacte brisÃ©",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 151,
+    "cost": 720235,
+    "base_audience": 2076497,
+    "origin": "France",
+    "year": 1998,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-02-05",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P116",
+    "title": "Quartier Libre S03E05 - Le choix",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 49,
+    "cost": 212915,
+    "base_audience": 3161403,
+    "origin": "France",
+    "year": 2013,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-20",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ],
+    "season": 3,
+    "episode": 5,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Jeudi",
+    "usual_time": "21:15",
+    "previous_episode": "P115"
+  },
+  {
+    "id": "P117",
+    "title": "OcÃ©ans : la survie",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 70,
+    "cost": 184460,
+    "base_audience": 1991488,
+    "origin": "France",
+    "year": 2009,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-07",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P118",
+    "title": "Inception",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 160,
+    "cost": 794499,
+    "base_audience": 3881790,
+    "origin": "Europe",
+    "year": 2010,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-14",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin",
+      "MatinÃ©e",
+      "AprÃ¨s-midi"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P119",
+    "title": "Cyclisme - Championnat : Stade Central vs Union Atlantique",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 95,
+    "cost": 322840,
+    "base_audience": 2499317,
+    "origin": "France",
+    "year": 2000,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-18",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P120",
+    "title": "Nantes : Le pacte mystÃ©rieux",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 105,
+    "cost": 388082,
+    "base_audience": 2393274,
+    "origin": "Europe",
+    "year": 2005,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-25",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P121",
+    "title": "Football - Coupe : Olympique Nord vs Paris SC",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 126,
+    "cost": 307097,
+    "base_audience": 3489536,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-09",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P122",
+    "title": "Le Grand Format Culture",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 48,
+    "cost": 116785,
+    "base_audience": 776380,
+    "origin": "France",
+    "year": 2000,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-12",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P123",
+    "title": "Vienne : Le destin oubliÃ©",
+    "genre": "Film",
+    "subgenre": "Drame",
+    "duration_minutes": 153,
+    "cost": 992939,
+    "base_audience": 3430406,
+    "origin": "France",
+    "year": 2000,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-24",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P124",
+    "title": "CÅ“urs CroisÃ©s S01E04 - La vÃ©ritÃ©",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 47,
+    "cost": 218395,
+    "base_audience": 2469121,
+    "origin": "France",
+    "year": 2004,
+    "age_rating": "-10",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-05-30",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ],
+    "season": 1,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "22:30",
+    "previous_episode": "P123"
+  },
+  {
+    "id": "P125",
+    "title": "Ligne Rouge S05E04 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 60,
+    "cost": 190819,
+    "base_audience": 3154693,
+    "origin": "France",
+    "year": 1995,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-21",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 5,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mercredi",
+    "usual_time": "21:15",
+    "previous_episode": "P124"
+  },
+  {
+    "id": "P126",
+    "title": "Le DÃ©bat du Soir",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 48,
+    "cost": 38339,
+    "base_audience": 2497733,
+    "origin": "France",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-05",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P127",
+    "title": "Histoire : les Templiers, les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 83,
+    "cost": 101823,
+    "base_audience": 1185131,
+    "origin": "France",
+    "year": 2016,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-23",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P128",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 37,
+    "cost": 69211,
+    "base_audience": 2998833,
+    "origin": "Europe",
+    "year": 2017,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-14",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P129",
+    "title": "UnitÃ© SpÃ©ciale S04E10 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 43,
+    "cost": 269866,
+    "base_audience": 2526818,
+    "origin": "France",
+    "year": 2007,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-04-26",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 4,
+    "episode": 10,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mercredi",
+    "usual_time": "20:45",
+    "previous_episode": "P128"
+  },
+  {
+    "id": "P130",
+    "title": "Les HÃ©ritiers S05E10 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 52,
+    "cost": 116358,
+    "base_audience": 2477671,
+    "origin": "Europe",
+    "year": 2001,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-07",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ],
+    "season": 5,
+    "episode": 10,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Vendredi",
+    "usual_time": "22:30",
+    "previous_episode": "P129"
+  },
+  {
+    "id": "P131",
+    "title": "Focus Voyage",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 70,
+    "cost": 45883,
+    "base_audience": 1297558,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-04-23",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P132",
+    "title": "Ligne Rouge S03E03 - Dernier appel",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 56,
+    "cost": 245248,
+    "base_audience": 3294741,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-02-26",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "season": 3,
+    "episode": 3,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "21:15",
+    "previous_episode": "P131"
+  },
+  {
+    "id": "P133",
+    "title": "Le Grand Format Culture",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 94,
+    "cost": 97759,
+    "base_audience": 1611162,
+    "origin": "Europe",
+    "year": 2025,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-07",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P134",
+    "title": "Regards Culture",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 64,
+    "cost": 94004,
+    "base_audience": 1987312,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-13",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P135",
+    "title": "Quartier Libre S02E12 - Double jeu",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 58,
+    "cost": 267114,
+    "base_audience": 2243179,
+    "origin": "France",
+    "year": 2014,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-17",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ],
+    "season": 2,
+    "episode": 12,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "22:30",
+    "previous_episode": "P134"
+  },
+  {
+    "id": "P136",
+    "title": "Ligne Rouge S04E04 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 57,
+    "cost": 210299,
+    "base_audience": 2696649,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "-10",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-05",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 4,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Jeudi",
+    "usual_time": "21:00",
+    "previous_episode": "P135"
+  },
+  {
+    "id": "P137",
+    "title": "Quartier Libre S02E06 - La vÃ©ritÃ©",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 44,
+    "cost": 151244,
+    "base_audience": 2861226,
+    "origin": "Europe",
+    "year": 2007,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-05-05",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 2,
+    "episode": 6,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "21:00",
+    "previous_episode": "P136"
+  },
+  {
+    "id": "P138",
+    "title": "Aurores : les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 93,
+    "cost": 107194,
+    "base_audience": 1126025,
+    "origin": "France",
+    "year": 2013,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-19",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P139",
+    "title": "Famille Moderne S05E11 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 46,
+    "cost": 276419,
+    "base_audience": 3274569,
+    "origin": "Europe",
+    "year": 2020,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-06",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 5,
+    "episode": 11,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Dimanche",
+    "usual_time": "21:00",
+    "previous_episode": "P138"
+  },
+  {
+    "id": "P140",
+    "title": "Cyclisme - Derby : Stade Central vs Paris SC",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 100,
+    "cost": 532905,
+    "base_audience": 1278252,
+    "origin": "France",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-08",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P141",
+    "title": "UnitÃ© SpÃ©ciale S05E12 - La vÃ©ritÃ©",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 53,
+    "cost": 156582,
+    "base_audience": 2926442,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-02-25",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "season": 5,
+    "episode": 12,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "20:45",
+    "previous_episode": "P140"
+  },
+  {
+    "id": "P142",
+    "title": "UnitÃ© SpÃ©ciale S02E04 - Double jeu",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 57,
+    "cost": 207841,
+    "base_audience": 1809205,
+    "origin": "France",
+    "year": 2020,
+    "age_rating": "-16",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-28",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "season": 2,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "21:00",
+    "previous_episode": "P141"
+  },
+  {
+    "id": "P143",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 32,
+    "cost": 85823,
+    "base_audience": 2471890,
+    "origin": "Europe",
+    "year": 2020,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-10",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P144",
+    "title": "PlanÃ¨te Football : Inside",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 65,
+    "cost": 275414,
+    "base_audience": 1271919,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-31",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P145",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 57,
+    "cost": 64022,
+    "base_audience": 2726877,
+    "origin": "Europe",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-09-04",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P146",
+    "title": "La Grande Ã‰nigme",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 95,
+    "cost": 322567,
+    "base_audience": 2404612,
+    "origin": "Europe",
+    "year": 2001,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-14",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P147",
+    "title": "La Grande Ã‰nigme - SpÃ©ciale Famille",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 121,
+    "cost": 221244,
+    "base_audience": 1418038,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-11",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P148",
+    "title": "Le mensonge silencieux",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 156,
+    "cost": 213086,
+    "base_audience": 2866741,
+    "origin": "Europe",
+    "year": 2007,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-02",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P149",
+    "title": "Rugby - Championnat : Union Atlantique vs Stade Central",
+    "genre": "Sport",
+    "subgenre": "Football",
+    "duration_minutes": 89,
+    "cost": 846276,
+    "base_audience": 1373519,
+    "origin": "Europe",
+    "year": 2018,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-16",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P150",
+    "title": "Quiz Master",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 65,
+    "cost": 193843,
+    "base_audience": 2684670,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-12-02",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P151",
+    "title": "Le Mensonge dâ€™lâ€™aube",
+    "genre": "Film",
+    "subgenre": "Aventure",
+    "duration_minutes": 116,
+    "cost": 463308,
+    "base_audience": 2084707,
+    "origin": "Europe",
+    "year": 2002,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-27",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P152",
+    "title": "Lâ€™Atelier des Kids",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 21,
+    "cost": 114498,
+    "base_audience": 931919,
+    "origin": "Europe",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-28",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P153",
+    "title": "Nantes : Le horizon dernier",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 128,
+    "cost": 392518,
+    "base_audience": 3303180,
+    "origin": "Europe",
+    "year": 2012,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-05-02",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P154",
+    "title": "Lâ€™Actu en Questions",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 41,
+    "cost": 44850,
+    "base_audience": 2498249,
+    "origin": "Europe",
+    "year": 1997,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-03",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P155",
+    "title": "Zoom SantÃ©",
+    "genre": "Magazine",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 69,
+    "cost": 50971,
+    "base_audience": 1603659,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-18",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P156",
+    "title": "Histoire : la RÃ©volution, les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 87,
+    "cost": 139462,
+    "base_audience": 1290113,
+    "origin": "France",
+    "year": 2000,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-04",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P157",
+    "title": "Stade Basket : Les temps forts",
+    "genre": "Sport",
+    "subgenre": "Football",
+    "duration_minutes": 119,
+    "cost": 352232,
+    "base_audience": 2541975,
+    "origin": "Europe",
+    "year": 1996,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-21",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P158",
+    "title": "Ligne Rouge S04E09 - La vÃ©ritÃ©",
+    "genre": "SÃ©rie",
+    "subgenre": "Drama",
+    "duration_minutes": 60,
+    "cost": 297711,
+    "base_audience": 2930828,
+    "origin": "Europe",
+    "year": 2010,
+    "age_rating": "-12",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-13",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 4,
+    "episode": 9,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "21:15",
+    "previous_episode": "P157"
+  },
+  {
+    "id": "P159",
+    "title": "Handball - Match : Olympique Nord vs FC Capitale",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 106,
+    "cost": 827312,
+    "base_audience": 3088876,
+    "origin": "Europe",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-19",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P160",
+    "title": "Le frontiÃ¨re dernier",
+    "genre": "Film",
+    "subgenre": "Aventure",
+    "duration_minutes": 146,
+    "cost": 915434,
+    "base_audience": 3962426,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-26",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P161",
+    "title": "Basket - Derby : Stade Central vs FC Capitale",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 122,
+    "cost": 775111,
+    "base_audience": 3728819,
+    "origin": "France",
+    "year": 2019,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-14",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P162",
+    "title": "SociÃ©tÃ© : lâ€™Ã‰cologie au quotidien",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 60,
+    "cost": 121887,
+    "base_audience": 2053193,
+    "origin": "France",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-22",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P163",
+    "title": "Mini HÃ©ros",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 33,
+    "cost": 111246,
+    "base_audience": 526814,
+    "origin": "France",
+    "year": 2018,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-31",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Matin",
+      "MatinÃ©e"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Film",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P164",
+    "title": "Le Juste Prix - SpÃ©ciale Week-end",
+    "genre": "Divertissement",
+    "subgenre": "Jeu",
+    "duration_minutes": 93,
+    "cost": 372813,
+    "base_audience": 2742452,
+    "origin": "France",
+    "year": 2014,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-07",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P165",
+    "title": "DÃ©serts : les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 86,
+    "cost": 127269,
+    "base_audience": 2016971,
+    "origin": "France",
+    "year": 2015,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-03-04",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P166",
+    "title": "Les HÃ©ritiers S01E03 - Le choix",
+    "genre": "SÃ©rie",
+    "subgenre": "Fantastique",
+    "duration_minutes": 45,
+    "cost": 287562,
+    "base_audience": 3149987,
+    "origin": "Europe",
+    "year": 2009,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-07",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "season": 1,
+    "episode": 3,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "20:45",
+    "previous_episode": "P165"
+  },
+  {
+    "id": "P167",
+    "title": "Le Grand Format Cuisine",
+    "genre": "Magazine",
+    "subgenre": "SantÃ©",
+    "duration_minutes": 45,
+    "cost": 81330,
+    "base_audience": 1930744,
+    "origin": "France",
+    "year": 2001,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-10",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Access Prime",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P168",
+    "title": "Ligne Rouge S01E01 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 57,
+    "cost": 105245,
+    "base_audience": 2105258,
+    "origin": "France",
+    "year": 2017,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-11-06",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "season": 1,
+    "episode": 1,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mercredi",
+    "usual_time": "22:30"
+  },
+  {
+    "id": "P169",
+    "title": "SociÃ©tÃ© : la Justice en dÃ©bat",
+    "genre": "Documentaire",
+    "subgenre": "SociÃ©tÃ©",
+    "duration_minutes": 53,
+    "cost": 120765,
+    "base_audience": 1501432,
+    "origin": "Europe",
+    "year": 2017,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-08",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P170",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 50,
+    "cost": 48124,
+    "base_audience": 3448933,
+    "origin": "France",
+    "year": 2024,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-13",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P171",
+    "title": "Quartier Libre S04E05 - Retour",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 60,
+    "cost": 172945,
+    "base_audience": 2603122,
+    "origin": "Europe",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-14",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ],
+    "season": 4,
+    "episode": 5,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "20:45",
+    "previous_episode": "P170"
+  },
+  {
+    "id": "P172",
+    "title": "Histoire : la Renaissance, les secrets",
+    "genre": "Documentaire",
+    "subgenre": "Histoire",
+    "duration_minutes": 80,
+    "cost": 108083,
+    "base_audience": 1980935,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-19",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P173",
+    "title": "Zone Basket : Les temps forts",
+    "genre": "Sport",
+    "subgenre": "Football",
+    "duration_minutes": 126,
+    "cost": 612936,
+    "base_audience": 1662917,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-30",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P174",
+    "title": "Le Juste Prix",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 134,
+    "cost": 354542,
+    "base_audience": 2093013,
+    "origin": "Europe",
+    "year": 2019,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-01",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P175",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 42,
+    "cost": 38755,
+    "base_audience": 3403532,
+    "origin": "France",
+    "year": 2006,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-11",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "Midi"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P176",
+    "title": "Stade Basket : Inside",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 136,
+    "cost": 505517,
+    "base_audience": 4335332,
+    "origin": "Europe",
+    "year": 2025,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-04-16",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P177",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 48,
+    "cost": 63257,
+    "base_audience": 2811220,
+    "origin": "France",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-08",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Sport",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P178",
+    "title": "Kids Planet",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 31,
+    "cost": 90151,
+    "base_audience": 1030532,
+    "origin": "France",
+    "year": 2011,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-07-05",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Film"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P179",
+    "title": "Le destin invisible",
+    "genre": "Film",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 101,
+    "cost": 592688,
+    "base_audience": 4180334,
+    "origin": "Europe",
+    "year": 2014,
+    "age_rating": "-16",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-01-06",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P180",
+    "title": "Basket - Match : Union Atlantique vs FC Capitale",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 77,
+    "cost": 563010,
+    "base_audience": 1730503,
+    "origin": "France",
+    "year": 2001,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-26",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ]
+  },
+  {
+    "id": "P181",
+    "title": "Volcans : lâ€™Ã©quilibre",
+    "genre": "Documentaire",
+    "subgenre": "Science",
+    "duration_minutes": 91,
+    "cost": 198732,
+    "base_audience": 1908865,
+    "origin": "Europe",
+    "year": 2014,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-03",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Documentaire",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P182",
+    "title": "Le Pacte",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 150,
+    "cost": 973518,
+    "base_audience": 6091141,
+    "origin": "France",
+    "year": 2022,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-06-09",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin",
+      "MatinÃ©e",
+      "AprÃ¨s-midi"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P183",
+    "title": "Lille : Le labyrinthe oubliÃ©",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 128,
+    "cost": 725085,
+    "base_audience": 4883287,
+    "origin": "France",
+    "year": 2005,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-11",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "DeuxiÃ¨me partie",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P184",
+    "title": "Tennis - Match : Paris SC vs Olympique Nord",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 109,
+    "cost": 480354,
+    "base_audience": 4793482,
+    "origin": "France",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-09-30",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Prime Time"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "ActualitÃ©s",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P185",
+    "title": "Lâ€™Hebdo Cuisine",
+    "genre": "Magazine",
+    "subgenre": "Culture",
+    "duration_minutes": 45,
+    "cost": 125344,
+    "base_audience": 1229187,
+    "origin": "France",
+    "year": 2017,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-08",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "AprÃ¨s-midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ]
+  },
+  {
+    "id": "P186",
+    "title": "Lâ€™Actu en Questions",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 31,
+    "cost": 77558,
+    "base_audience": 2981120,
+    "origin": "Europe",
+    "year": 2003,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-23",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P187",
+    "title": "Famille Moderne S01E04 - La rupture",
+    "genre": "SÃ©rie",
+    "subgenre": "Policier",
+    "duration_minutes": 50,
+    "cost": 156267,
+    "base_audience": 3045005,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "-10",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2026-02-15",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Access Prime",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ],
+    "season": 1,
+    "episode": 4,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Mardi",
+    "usual_time": "20:45",
+    "previous_episode": "P186"
+  },
+  {
+    "id": "P188",
+    "title": "Le frontiÃ¨re secret",
+    "genre": "Film",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 126,
+    "cost": 264376,
+    "base_audience": 2611360,
+    "origin": "Europe",
+    "year": 2008,
+    "age_rating": "-10",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-03-09",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P189",
+    "title": "Stade Handball : Le match",
+    "genre": "Sport",
+    "subgenre": "Tennis",
+    "duration_minutes": 126,
+    "cost": 862802,
+    "base_audience": 4723436,
+    "origin": "France",
+    "year": 2008,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-11-01",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Jeunesse"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P190",
+    "title": "RiviÃ¨res : la survie",
+    "genre": "Documentaire",
+    "subgenre": "Nature",
+    "duration_minutes": 67,
+    "cost": 54244,
+    "base_audience": 1200064,
+    "origin": "Europe",
+    "year": 2020,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-10-18",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P191",
+    "title": "Inception",
+    "genre": "Film",
+    "subgenre": "Thriller",
+    "duration_minutes": 118,
+    "cost": 1193372,
+    "base_audience": 5841174,
+    "origin": "Europe",
+    "year": 2010,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-13",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin",
+      "MatinÃ©e",
+      "AprÃ¨s-midi"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire",
+      "Divertissement"
+    ],
+    "incompatible_genres": [
+      "Jeunesse",
+      "ActualitÃ©s"
+    ]
+  },
+  {
+    "id": "P192",
+    "title": "Zone Handball : Inside",
+    "genre": "Sport",
+    "subgenre": "Magazine sportif",
+    "duration_minutes": 88,
+    "cost": 833100,
+    "base_audience": 4014517,
+    "origin": "Europe",
+    "year": 2003,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-12-19",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Prime Time",
+      "AprÃ¨s-midi"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "ActualitÃ©s"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P193",
+    "title": "Ligne Rouge S04E07 - Sans traces",
+    "genre": "SÃ©rie",
+    "subgenre": "ComÃ©die",
+    "duration_minutes": 44,
+    "cost": 218290,
+    "base_audience": 2508718,
+    "origin": "Europe",
+    "year": 2015,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-07-27",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Access Prime",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Documentaire"
+    ],
+    "season": 4,
+    "episode": 7,
+    "total_episodes": 12,
+    "max_episodes_per_week": 1,
+    "usual_day": "Lundi",
+    "usual_time": "22:30",
+    "previous_episode": "P192"
+  },
+  {
+    "id": "P194",
+    "title": "JT 13h",
+    "genre": "ActualitÃ©s",
+    "subgenre": "Journal tÃ©lÃ©visÃ©",
+    "duration_minutes": 32,
+    "cost": 75070,
+    "base_audience": 4177791,
+    "origin": "Europe",
+    "year": 2020,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-04-27",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "SÃ©rie",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Magazine"
+    ],
+    "fixed_time": "13:00",
+    "fixed_days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ]
+  },
+  {
+    "id": "P195",
+    "title": "Aventures AnimÃ©es",
+    "genre": "Jeunesse",
+    "subgenre": "Ã‰ducatif",
+    "duration_minutes": 30,
+    "cost": 52708,
+    "base_audience": 633742,
+    "origin": "France",
+    "year": 2010,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Jeunesse"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-03-13",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Magazine",
+      "Sport"
+    ],
+    "incompatible_genres": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "P196",
+    "title": "Le Juste Prix",
+    "genre": "Divertissement",
+    "subgenre": "VariÃ©tÃ©s",
+    "duration_minutes": 140,
+    "cost": 285975,
+    "base_audience": 1427259,
+    "origin": "France",
+    "year": 2012,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-08-15",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Divertissement",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Divertissement"
+    ]
+  },
+  {
+    "id": "P197",
+    "title": "Face aux faits",
+    "genre": "ActualitÃ©s",
+    "subgenre": "DÃ©bat",
+    "duration_minutes": 44,
+    "cost": 70442,
+    "base_audience": 3676647,
+    "origin": "Europe",
+    "year": 1999,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2026-01-28",
+    "min_rerun_days": 60,
+    "preferred_slots": [
+      "Midi",
+      "Access Prime"
+    ],
+    "forbidden_slots": [
+      "Nuit"
+    ],
+    "compatible_genres": [
+      "Jeunesse",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  },
+  {
+    "id": "P198",
+    "title": "Montagnes : le mystÃ¨re",
+    "genre": "Documentaire",
+    "subgenre": "Nature",
+    "duration_minutes": 92,
+    "cost": 137522,
+    "base_audience": 1815333,
+    "origin": "France",
+    "year": 2008,
+    "age_rating": "-10",
+    "target_audience": [
+      "Grand public"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-05-06",
+    "min_rerun_days": 90,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "Matin"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Documentaire"
+    ],
+    "incompatible_genres": [
+      "Jeunesse"
+    ]
+  },
+  {
+    "id": "P199",
+    "title": "Paris : Le serment invisible",
+    "genre": "Film",
+    "subgenre": "Action",
+    "duration_minutes": 103,
+    "cost": 907712,
+    "base_audience": 3983494,
+    "origin": "Europe",
+    "year": 2023,
+    "age_rating": "Tout public",
+    "target_audience": [
+      "Grand public",
+      "Adultes"
+    ],
+    "first_broadcast": false,
+    "last_broadcast_date": "2025-10-18",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "Prime Time",
+      "DeuxiÃ¨me partie"
+    ],
+    "forbidden_slots": [
+      "MatinÃ©e"
+    ],
+    "compatible_genres": [
+      "Film",
+      "SÃ©rie"
+    ],
+    "incompatible_genres": [
+      "Film"
+    ]
+  },
+  {
+    "id": "P200",
+    "title": "Kids Planet",
+    "genre": "Jeunesse",
+    "subgenre": "Animation",
+    "duration_minutes": 35,
+    "cost": 70196,
+    "base_audience": 1049331,
+    "origin": "Europe",
+    "year": 2003,
+    "age_rating": "-10",
+    "target_audience": [
+      "Jeunesse",
+      "Familles"
+    ],
+    "first_broadcast": true,
+    "last_broadcast_date": "2025-06-20",
+    "min_rerun_days": 30,
+    "preferred_slots": [
+      "MatinÃ©e",
+      "Matin"
+    ],
+    "forbidden_slots": [
+      "DeuxiÃ¨me partie"
+    ],
+    "compatible_genres": [
+      "Film",
+      "Magazine"
+    ],
+    "incompatible_genres": [
+      "SÃ©rie"
+    ]
+  }
+]
