@@ -1,0 +1,2 @@
+ortools>=9.7
+minizinc>=0.8
